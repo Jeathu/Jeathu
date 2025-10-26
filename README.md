@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **jeathus.dorian@gmail.com**
 
-- ⚡ Fun fact ** I think I’m funny… my compiler disagrees 😅**
+- ⚡ Fun fact **I think I’m funny… my compiler disagrees 😅**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1QXLduPdNVjS9vmYxVJYIrulP-1U6L8eI/view?usp=drive_link](https://drive.google.com/file/d/1QXLduPdNVjS9vmYxVJYIrulP-1U6L8eI/view?usp=drive_link)**
 

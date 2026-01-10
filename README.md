@@ -1,4 +1,4 @@
-![image](./Jeathusan Kugathas.png)
+![Photo de profil](./Jeathusan%20Kugathas.png)
 ### Future data engineer
 
 - 📫 How to reach me **jeathus.dorian@gmail.com**

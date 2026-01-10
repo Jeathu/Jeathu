@@ -1,4 +1,4 @@
-![Photo de profil](./jeathusan.png)
+![Photo de profil](./github_jeathus.png.png)
 
 - 📫 How to reach me **jeathus.dorian@gmail.com**
 

@@ -1,5 +1,4 @@
-# Hi 👋, I'm Jeathusan
-
+![image](./Jeathusan Kugathas.png)
 ### Future data engineer
 
 - 📫 How to reach me **jeathus.dorian@gmail.com**
